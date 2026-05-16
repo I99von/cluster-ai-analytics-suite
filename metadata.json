@@ -1,0 +1,10 @@
+{
+  "name": "Clustera AI: Analytics & ML Suite",
+  "description": "Professional data science platform for automated clustering, EDA, and AI-powered business profiling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "Data analysis",
+    "Machine Learning",
+    "AI Interpretation"
+  ]
+}
